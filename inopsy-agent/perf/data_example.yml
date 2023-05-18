@@ -1,0 +1,8 @@
+[{'bytes sent: ': 23454955, 'mean l_rtt: ': 47, 'mean max_bw: ': 17197129, 'mean min_rtt: ': 20,
+    'mean s_rtt: ': 47, time: 0.0-1.8}, {'bytes sent: ': 25394653, 'mean l_rtt: ': 44,
+    'mean max_bw: ': 16987087, 'mean min_rtt: ': 20, 'mean s_rtt: ': 44, time: 1.8-3.6},
+  {'bytes sent: ': 26635384, 'mean l_rtt: ': 38, 'mean max_bw: ': 17687550, 'mean min_rtt: ': 19,
+    'mean s_rtt: ': 38, time: 3.6-5.4}, {'bytes sent: ': 28099651, 'mean l_rtt: ': 45,
+    'mean max_bw: ': 17669960, 'mean min_rtt: ': 18, 'mean s_rtt: ': 45, time: 5.4-7.2},
+  {'bytes sent: ': 5709490, 'mean l_rtt: ': 55, 'mean max_bw: ': 18111380, 'mean min_rtt: ': 18,
+    'mean s_rtt: ': 54, time: 7.2-9.0}]

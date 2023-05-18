@@ -1,0 +1,42 @@
+[
+      {
+            "time": "0.0-1.8",
+            "bytes sent: ": 23454955,
+            "mean s_rtt: ": 47,
+            "mean l_rtt: ": 47,
+            "mean min_rtt: ": 20,
+            "mean max_bw: ": 17197129
+      },
+      {
+            "time": "1.8-3.6",
+            "bytes sent: ": 25394653,
+            "mean s_rtt: ": 44,
+            "mean l_rtt: ": 44,
+            "mean min_rtt: ": 20,
+            "mean max_bw: ": 16987087
+      },
+      {
+            "time": "3.6-5.4",
+            "bytes sent: ": 26635384,
+            "mean s_rtt: ": 38,
+            "mean l_rtt: ": 38,
+            "mean min_rtt: ": 19,
+            "mean max_bw: ": 17687550
+      },
+      {
+            "time": "5.4-7.2",
+            "bytes sent: ": 28099651,
+            "mean s_rtt: ": 45,
+            "mean l_rtt: ": 45,
+            "mean min_rtt: ": 18,
+            "mean max_bw: ": 17669960
+      },
+      {
+            "time": "7.2-9.0",
+            "bytes sent: ": 5709490,
+            "mean s_rtt: ": 54,
+            "mean l_rtt: ": 55,
+            "mean min_rtt: ": 18,
+            "mean max_bw: ": 18111380
+      }
+]
